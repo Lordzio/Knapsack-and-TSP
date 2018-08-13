@@ -1,0 +1,1 @@
+Projekt rozwi¹zuj¹cy problem komiwoja¿era oraz problem plecakowy za pomoc¹ algorytmu zach³annego lub algorytmu plecakowego.

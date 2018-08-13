@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+  FileNotFoundException.cpp
+  IndexOutOfBoundsException.cpp
+  Knapsack.cpp
+c:\users\kamil\documents\visual studio 2017\projects\sdizo_3\sdizo_3\knapsack.cpp(242): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+c:\users\kamil\documents\visual studio 2017\projects\sdizo_3\sdizo_3\knapsack.cpp(290): warning C4018: '>': signed/unsigned mismatch
+  RandGraphGen.cpp
+c:\users\kamil\documents\visual studio 2017\projects\sdizo_3\sdizo_3\randgraphgen.cpp(48): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RandKnapsackDataGen.cpp
+c:\users\kamil\documents\visual studio 2017\projects\sdizo_3\sdizo_3\randknapsackdatagen.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kamil\documents\visual studio 2017\projects\sdizo_3\sdizo_3\randknapsackdatagen.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\kamil\documents\visual studio 2017\projects\sdizo_3\sdizo_3\randknapsackdatagen.cpp(79): warning C4018: '<': signed/unsigned mismatch
+  SDIZO_3.cpp
+c:\users\kamil\documents\visual studio 2017\projects\sdizo_3\sdizo_3\sdizo_3.cpp(47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Towns.cpp
+  Generating code
+  All 277 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SDIZO_3.vcxproj -> C:\Users\Kamil\Documents\Visual Studio 2017\Projects\SDIZO_3\Release\SDIZO_3.exe
